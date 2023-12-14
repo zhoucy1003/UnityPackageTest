@@ -1,0 +1,7 @@
+{
+    "name": "com.zhoucy.unity_package_test",
+    "version": "0.1.0",
+    "displayName": "Unity Package Test",
+    "description": "This is an example package",
+    "unity": "2022.1"
+  }
