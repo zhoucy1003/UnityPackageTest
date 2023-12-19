@@ -13,6 +13,7 @@ public class ShowStringTool : EditorWindow
     {
         if(GUILayout.Button("Show String"))
         {
+            // Only For Test
             Debug.Log("Show String Tool");
         }
     }
