@@ -14,6 +14,16 @@
           "displayName": "URP Shaders",
           "description": "Contains sample shaders for the Universal render pipeline",
           "path": "Samples~/Sample2"
+      },
+      {
+        "displayName": "Runtime Sample",
+        "description": "Runtime Sample",
+        "path": "Runtime/Sample"
+      },
+      {
+        "displayName": "Editor Sample",
+        "description": "Editor Sample",
+        "path": "Editor/Sample"
       }
   ],
    "documentationUrl" : "http://jira.blackjack-local.com:8090/pages/viewpage.action?pageId=103481395"
