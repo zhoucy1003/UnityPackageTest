@@ -15,5 +15,6 @@
           "description": "Contains sample shaders for the Universal render pipeline",
           "path": "Samples~/Sample2"
       }
-  ]
+  ],
+   "documentation" : "Documentation~"
   }
