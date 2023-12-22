@@ -2,10 +2,11 @@
     "name": "NewAssembly",
     "rootNamespace": "",
     "references": [
-        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
         "GUID:b7b76cafc133dd0459d8aaa779eae818"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
