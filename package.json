@@ -1,6 +1,6 @@
 {
     "name": "com.zhoucy.unity_package_test",
-    "version": "1.0.0-fm.0.11",
+    "version": "1.0.0-fm.0.12",
     "displayName": "Unity Package Test",
     "description": "This is an example package",
     "unity": "2022.1",
@@ -10,7 +10,7 @@
           "description": "Contains sample shaders for the High Definition render pipeline",
           "path": "Samples~/Sample1",
           "interactiveImport": false,
-          "createSeparatePackage":true
+          "createSeparatePackage":false
       },
       {
           "displayName": "URP Shaders",
