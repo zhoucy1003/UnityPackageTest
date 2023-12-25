@@ -1,6 +1,6 @@
 {
   "name": "blackjack.render-pipeline",
-  "version": "2.0.0-fm.0.14",
+  "version": "2.0.0-fm.0.15",
   "displayName": "blackjack.render-pipeline",
   "description": "This is an example package",
   "unity": "2022.1",
@@ -16,7 +16,7 @@
       "path": "Samples~/Sample2"
     }
   ],
-  "dependencies":{
+  "dependencies": {
     "com.unity.ugui": "1.0.0"
   },
   "keywords": [
@@ -25,6 +25,6 @@
     "Render Pipeline"
   ],
   "documentationUrl": "http://doc.test.com",
-  "changelogUrl":"http://changelog.test.com",
+  "changelogUrl": "http://changelog.test.com",
   "licensesUrl": "http://licenses.test.com"
 }
