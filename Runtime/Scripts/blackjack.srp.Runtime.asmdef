@@ -1,12 +1,10 @@
 {
-    "name": "NewAssembly",
+    "name": "blackjack.srp.Runtime",
     "rootNamespace": "",
     "references": [
-        "GUID:b7b76cafc133dd0459d8aaa779eae818"
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

@@ -1,32 +1,30 @@
 {
-    "name": "com.zhoucy.unity_package_test",
-    "version": "1.0.0-fm.0.14",
-    "displayName": "Unity Package Test",
-    "description": "This is an example package",
-    "unity": "2022.1",
-    "samples": [
-      {
-          "displayName": "HDRP Shaders",
-          "description": "Contains sample shaders for the High Definition render pipeline",
-          "path": "Samples~/Sample1",
-          "interactiveImport": false,
-          "createSeparatePackage":false
-      },
-      {
-          "displayName": "URP Shaders",
-          "description": "Contains sample shaders for the Universal render pipeline",
-          "path": "Samples~/Sample2"
-      },
-      {
-        "displayName": "Runtime Sample",
-        "description": "Runtime Sample",
-        "path": "Runtime/Sample"
-      },
-      {
-        "displayName": "Editor Sample",
-        "description": "Editor Sample",
-        "path": "Editor/Sample"
-      }
+  "name": "blackjack.render-pipeline",
+  "version": "2.0.0-fm.0.14",
+  "displayName": "blackjack.render-pipeline",
+  "description": "This is an example package",
+  "unity": "2022.1",
+  "samples": [
+    {
+      "displayName": "HDRP Shaders",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/Sample1"
+    },
+    {
+      "displayName": "URP Shaders",
+      "description": "Contains sample shaders for the Universal render pipeline",
+      "path": "Samples~/Sample2"
+    }
   ],
-   "documentationUrl" : "http://jira.blackjack-local.com:8090/pages/viewpage.action?pageId=103481395"
-  }
+  "dependencies":{
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "Graphics",
+    "Rendering",
+    "Render Pipeline"
+  ],
+  "documentationUrl": "http://doc.test.com",
+  "changelogUrl":"http://changelog.test.com",
+  "licensesUrl": "http://licenses.test.com"
+}
