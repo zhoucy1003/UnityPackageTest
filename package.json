@@ -23,8 +23,5 @@
     "Graphics",
     "Rendering",
     "Render Pipeline"
-  ],
-  "documentationUrl": "http://doc.test.com",
-  "changelogUrl": "http://changelog.test.com",
-  "licensesUrl": "http://licenses.test.com"
+  ]
 }
