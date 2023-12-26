@@ -1,6 +1,6 @@
 {
   "name": "blackjack.render-pipeline",
-  "version": "2.0.0-fm.0.16",
+  "version": "2.0.0-fm.0.17",
   "displayName": "blackjack.render-pipeline",
   "description": "This is an example package",
   "unity": "2022.1",
